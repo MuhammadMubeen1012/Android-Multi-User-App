@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multi User App</string>
+    <string-array name="userRole">
+        <item>admin</item>
+        <item>salesman</item>
+        <item>operator</item>
+    </string-array>
+</resources>
